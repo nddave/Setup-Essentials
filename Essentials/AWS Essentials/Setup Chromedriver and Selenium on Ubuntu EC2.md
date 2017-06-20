@@ -1,4 +1,4 @@
-# Installing Chromedriver with Selenium on Python3 Ubuntu EC2
+# Installing Chromedriver, Selenium with Python3 on AWS' Ubuntu EC2 Machine
 
 This setup will walk you through a step by step process of installing Chromedriver with Selenium web scraping library on AWS' EC2 machine preloaded with Ubuntu and Python3.
 
